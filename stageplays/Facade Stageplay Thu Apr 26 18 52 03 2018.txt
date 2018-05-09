@@ -1,0 +1,64 @@
+
+FACADE STAGEPLAY
+Thu Apr 26 18 52 03 2018
+
+TRIP
+Where are the new wine glasses?
+
+GRACE
+What for?
+
+(debug knocks on the front door.)
+
+(debug knocks on the front door.)
+
+(debug knocks on the front door.)
+
+(debug knocks on the front door.)
+
+(debug knocks on the front door.)
+
+TRIP
+That should be obvious! -- (interrupted)
+
+(debug knocks on the front door.)
+
+(debug knocks on the front door.)
+
+TRIP
+Uhp, she's here!
+
+GRACE
+What?! You told me it'd be an hour from now!
+
+TRIP
+No, she's supposed to be here now!
+
+GRACE
+God... Trip!
+
+(debug knocks on the front door.)
+
+(debug knocks on the front door.)
+
+(Trip opens the front door.)
+
+TRIP
+Diana!! 
+
+TRIP
+Ah  I'm so happy you could make it!     -- (interrupted)
+
+GRACE
+No, no, here we are!
+
+GRACE
+Diana, 
+
+(debug picks up the brass bull.)
+
+GRACE
+Hi!  How are you?  God it's been a while!
+
+TRIP
+Yeah, yeah, how are you doing?
