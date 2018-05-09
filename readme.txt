@@ -1,12 +1,12 @@
-"Façade", a one-act interactive drama
+"FaÃ§ade", a one-act interactive drama
 v1.1
 
 (c)2005-2006 Procedural Arts, www.interactivestory.net
 
-Façade is freeware - please give copies to your friends!
+FaÃ§ade is freeware - please give copies to your friends!
 
 For help, questions, feedback or comments, write to facade@interactivestory.net
-Get the hint guide "Behind the Façade" at www.interactivestory.net
+Get the hint guide "Behind the FaÃ§ade" at www.interactivestory.net
 
 Requirements:
  Windows XP, 1.6GHz Pentium or higher
@@ -17,7 +17,7 @@ Requirements:
 Instructions: Type on the keyboard to speak to the characters at any time.	
  Navigate with arrow keys.  Pick up and use objects with mouse hand cursor.
 
-Generated Stageplays: Every time you play Façade, a new stageplay is generated,
+Generated Stageplays: Every time you play FaÃ§ade, a new stageplay is generated,
  named with the current date and time, and placed in Facade\stageplays.
 
 Credits:
